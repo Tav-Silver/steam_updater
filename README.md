@@ -1,6 +1,6 @@
-There is no global setting to change all your games on Steam to receive updates immediately when they are available. 
-Often I see Steam scheduling the updates to when I usually have my computer off, totally useless. 
-I'm not gonna spend hours changing from "Let Steam decide" to getting updates on all my games, totally useless.
+There is no global setting to change all your games on Steam to receive updates immediately when they are available.  
+Often I see Steam scheduling the updates to when I usually have my computer off, totally useless.  
+I'm not gonna spend hours changing from "Let Steam decide" to getting updates on all my games, totally useless.  
 So I took matter into my own hands, made this script and decided to share.
 
 A simple script to alter all your games on Steam to download updates immediately, with a nice viewing list and a counter.
