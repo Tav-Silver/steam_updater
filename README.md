@@ -4,7 +4,7 @@ I'm not gonna spend hours changing from "Let Steam decide" to getting updates on
 So I took matter into my own hands, made this script and decided to share.
 
 A simple script to alter all your games on Steam to download updates immediately, with a nice viewing list and a counter.
-You can run this after every new download; it will not show the same result twice.
+You can run this after every new download; it will not show the same result twice.  
 Written for Windows and for us that have many Steam games downloaded.
 
 The script searches your specified Steam libraries and changes the key "AutoUpdateBehavior" from value "0" to "2" in all
