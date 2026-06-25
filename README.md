@@ -9,7 +9,7 @@ and have it run silently everytime you download a game, idk. Written for Windows
 ## What does it do?
 The script finds your Steam installation path via windows registry and pulls the libraries from libraryfolders.vdf in the Steam installation
 and changes the key "AutoUpdateBehavior" from value "0" to "2" in all appmanifest_*.acf files that it finds, enabling immediate Steam updates.
-The script will also restart Steam automatically if the script detect any other value than 0 in the app manifests.
+The script will also restart Steam automatically if the script detect any other value than 2 in the app manifests.
 
 ## Pre-running the script/Installation:
 1.  Put the files wherever you want.
