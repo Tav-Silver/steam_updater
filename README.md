@@ -3,8 +3,7 @@ This is very annoying since I have many games downloaded. So I took matter into 
 
 This is a script that alter all your games on Steam to download updates immediately and I've added some interesting
 features like a counter of updated games, number of games and a total size on disk column for each library.
-You can run this after every new download, it will not show the same result twice. Add the script to a macro
-and have it run silently everytime you download a game, idk. Written for Windows users obviously.
+You can run this after every new download, it will not show the same result twice except games/size on disk.
 
 ## What does it do?
 The script finds your Steam installation path via windows registry and pulls the libraries from libraryfolders.vdf in the Steam installation
