@@ -1,2 +1,2 @@
 @echo off
-powershell -NoProfile -ExecutionPolicy Bypass -File "path-to-steam_updater.ps1"
+powershell -NoProfile -ExecutionPolicy Bypass -File "X:\path\to\script\steam_updater.ps1"
